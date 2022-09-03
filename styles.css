@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#hero {
+    height: 285px;
+    background: #6943FF;
+    text-align: center;
+    padding-top: 36px;
+}
+
+#hero h1 {
+    color: white;
+}
+
+input {
+    width: 118px;
+    height: 84px;
+    background-color: transparent;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    font-size: 54px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+#btn {
+    width: 118px;
+    height: 42px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    color: #3D3D3D;
+    padding: 10px 20px;
+    font-size: 16px;
+}
